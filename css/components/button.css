@@ -1,0 +1,18 @@
+ .btn-grey {
+	background-color: #848484;
+	color: white;
+	padding: 10px 15px;
+	border-radius: 4px;
+	font-weight: bold; 
+	font-family: 'Merriweather', serif;
+	margin: 0px 20px;
+
+	
+}
+
+a:hover {
+	color: #101010;
+	font-weight: lighter;
+
+}
+
